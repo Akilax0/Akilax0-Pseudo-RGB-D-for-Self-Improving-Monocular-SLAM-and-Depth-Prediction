@@ -1,4 +1,4 @@
-# Akilax0-Pseudo-RGB-D-for-Self-Improving-Monocular-SLAM-and-Depth-Prediction
+# Pseudo-RGB-D-for-Self-Improving-Monocular-SLAM-and-Depth-Prediction
 
 
 https://github.com/Akilax0/ORB_SLAM2
